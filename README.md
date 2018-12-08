@@ -106,7 +106,7 @@ main()
 }
 ```
 **Hasiil**
-![Hasil]https://raw.githubusercontent.com/adityaaryaa/praktikum7/master/soal2.png()
+![Hasil](https://raw.githubusercontent.com/adityaaryaa/praktikum7/master/soal2.png)
 
 ##soal3.cpp
 **Alur Argoritma**
